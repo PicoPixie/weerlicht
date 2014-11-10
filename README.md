@@ -58,6 +58,5 @@ Wrote Spark function to accept six digit hex string as allows future expansion t
 Who is to blame.?
 -----------------
 
-twitter: @_PicoPixie_
-github: @PicoPixie
+twitter: "@_PicoPixie_"
 email: sharon@swansea.hackspace.org.uk
